@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @ctrl-bart
+Hi, I’m @ctrl-bart
